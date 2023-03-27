@@ -29,7 +29,7 @@ public class DatatypeExample {
 		int p;
 		//System.out.println(p);// local variable must be initialized before using
 		// no garbage values in java 
-		
+		//edit complete
 		
 		
 		
